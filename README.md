@@ -1,3 +1,3 @@
 ## TRIAMaps
 
-This is a collection of code from all of the TRIA.os maps I have put out so far.
+This shows how I made some of my TRIA maps, some unreleased, some released. Maybe you can learn a thing or two on how I code I guess.
